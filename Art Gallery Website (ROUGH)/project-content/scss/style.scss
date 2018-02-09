@@ -1,0 +1,13 @@
+@import 'utilities/variables';
+
+p {
+  color:$primary-color;
+}
+
+.testing {
+  width:percentage(5/10);
+}
+
+body {
+  background-color:slategrey;
+}
